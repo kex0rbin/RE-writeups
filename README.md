@@ -4,6 +4,10 @@ Welcome to my personal repository of reverse engineering work: crackme writeups 
 personal projects. The crackmes come from crackmes.one and I solve them
 while learning reverse engineering. Each writeup links to its original source.
 
+
+<img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/51c23c32-0ca9-4b1d-a663-3feca7628793" />
+<img width="65" height="65" alt="image" src="https://github.com/user-attachments/assets/85d1ad39-9532-447f-8998-3e5b65e84a8c" />
+
 ## Environment and Tools
 
 - **GUI tools:** Detect It Easy (DIE), x64dbg, Ghidra
