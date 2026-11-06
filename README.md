@@ -21,7 +21,7 @@ while learning reverse engineering. Each writeup links to its original source.
 
 ## Template
 
-Each writeup follows the template from [`template/TEMPLATE.md`](templates/WRITEUP_TEMPLATE.md):
+Each writeup follows the template from [`template/TEMPLATE.md`](template/TEMPLATE.md):
 recon, analysis, solution.
 
 ## Personal Projects
