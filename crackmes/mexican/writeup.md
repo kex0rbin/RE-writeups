@@ -60,7 +60,8 @@ And now, the tag of the address has changed to flag, what confirms what I did.
 
 Patched, now we run the program and the output is:
 ```bash
-PS D:\crackmes> .\cracked.exe                                                                                           flag{M3x1c4nMl4lw4r3_pl3rro}  
+PS D:\crackmes> .\cracked.exe
+flag{M3x1c4nMl4lw4r3_pl3rro}  
 helª)Á8{, 
 ```
 
