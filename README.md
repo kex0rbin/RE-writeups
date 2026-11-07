@@ -16,9 +16,9 @@ while learning reverse engineering. Each writeup links to its original source.
 
 ## Crackmes progress
 
-| # | Name | Platform | Arch | Language | Difficulty | Source | Link   |
-|---|------|----------|------|----------|------------|--------|--------|
-
+| # | Name | Platform | Arch | Language | Size | Link   |Author|
+|---|------|----------|------|----------|--------|------|------|
+| 1 |mexican|Windows|x86|C/C++|101.63 KB|https://crackmes.one/crackme/5d63011533c5d46f00e2c305|evilprogrammer|
 ## Template
 
 Each writeup follows the template from [`template/TEMPLATE.md`](template/TEMPLATE.md):
