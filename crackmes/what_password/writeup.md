@@ -55,6 +55,7 @@ And I tried to reconstruct the logic of the encryption. There's a part of my ana
 You can read the whole file in this same directory. It's called, xoranalysis.txt. I just did three iterations and
 it was necesary to do the keygen.
 
+EDIT: I did the xor operations and the rest in online calculators.
 ```bash
 >>>>>iteration1>>>>>>
 val1 = (&pw + val2) xor 0x27 + val3
