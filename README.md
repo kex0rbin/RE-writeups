@@ -19,6 +19,7 @@ while learning reverse engineering. Each writeup links to its original source.
 | # | Name | Platform | Arch | Language | Size | Link   |Author|
 |---|------|----------|------|----------|--------|------|------|
 | 1 |mexican|Windows|x86|C/C++|101.63 KB|https://crackmes.one/crackme/5d63011533c5d46f00e2c305|evilprogrammer|
+| 2 |what_password|Linux|x86|Assembly|16.59 KB|https://crackmes.one/crackme/6a83e2f205a9e80a90724421|Cyberpenguin|
 ## Template
 
 Each writeup follows the template from [`template/TEMPLATE.md`](template/TEMPLATE.md):

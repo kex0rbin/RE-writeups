@@ -1,0 +1,39 @@
+val1 = -
+val2 = 0x00
+val3 = 0x02 
+password = kr@
+direcciones importntes
+0x0040406c input
+0x00404028 pw (almacena 4Eh) 
+
+datos en pw:
+(suposicion) 
+4e 49 1d 42 7c 
+41 7c 33 75 6a 
+6b 3c 7e 7f cb
+
+>>>>>iteracion1>>>>>>
+val1 = (&pw + val2) xor 0x27 + val3
+val1 = 4e xor 0x27 + 0x02
+val1 = 0x69 + 0x02
+val1 = 0x6B (k)
+
+val3 += 0x02
+val3 = 0x04
+val2 += 0x01
+val2 = 0x01
+>>>>>iteration2>>>>>>
+val1 = 0x49 xor 0x27 + 0x04
+val1 = 0x6e + 0x04
+val1 = 0x72 (r)
+val3 = 0x06
+val2 = 0x02
+
+>>>>>iteration3>>>>>>
+val1 = 0x1d xor 0x27 + 0x06
+val1 = 0x3a + 0x06
+val1 = 40 (@)
+val3 = 0x08
+val2 = 0x03
+
+edit: now lets do the keygen!
