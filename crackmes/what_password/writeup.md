@@ -20,8 +20,11 @@ Format: Executable and Linkable Format file (ELF). Linux executable.
 And now, I know that i'ts and ELF file (linux file), and then I opened ghidra.
 I recognized that it's assembly code because of the syscalls were present. And the logic was simple, if
 the password was wrong, the program ends with:
+EDIT: mistake in the output, I fixed it.
 ```bash
-❯ ./what_password                                                                                                       idkthepassword                                                                                                          Incorrect password!
+❯ ./what_password
+  idkthepassword
+  Incorrect password!
 ```   
 I did some notes below and after the main function (password encrypt) and renamed the three variables (in spanish):
 
@@ -86,8 +89,8 @@ Finaly, I compiled the keygen and this is my result:
 ❯ ./keygen
 KEY: kr@meri$dab3st
 ❯ ./what_password 
-kr@meri$dab3st          
-Correct! You won!         
+kr@meri$dab3st
+Correct! You won!
 ```
 As you can see, the key was correct!. My code and my notes are in this same directory. Check it, I'll be
 grateful with u. Thanks!
